@@ -1,2 +1,5 @@
-# cracking-the-coding-interview
+#CTCI By Topic
 CTCI Solutions by Chapter in Java
+
+## Chapter 1
+
